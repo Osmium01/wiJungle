@@ -1,0 +1,11 @@
+.heroword{
+    font: times new roman,;
+    position: relative;
+    top: 175px;
+    font-size: 2.5rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 1.0rem;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
